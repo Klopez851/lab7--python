@@ -1,0 +1,6 @@
+keidy,williams,23,3.25
+lloyd,williams,23,3.45
+keidy,lopez,18,3.01
+edith,lopez,22,3.66
+kenia,tolentino,19,3.09
+eddy,lopez,22,3.73
